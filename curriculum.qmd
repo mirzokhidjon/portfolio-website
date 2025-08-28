@@ -1,6 +1,6 @@
 ---
 title: Mirzhokhidjon
-image: images/jon.png
+image: images/pain.png
 about:
   template: trestles
 
@@ -14,7 +14,7 @@ about:
 
 **Chief Specialist, International cooperation and working with WTO Division**
 *Central Bank of Uzbekistan, Tashkent, Uzbekistan*
-*July 2023 – Present*
+*July 2023 – June 2024*
 
 * Represent the interests of the Central Bank in interactions with international financial institutions.
 * Monitor the Central Bank's fulfillment of obligations under agreements with international organizations.

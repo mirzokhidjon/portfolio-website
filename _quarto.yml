@@ -12,8 +12,8 @@ website:
         text: About
       - href: curriculum.qmd
         text: Curriculum
-      - href: projects.qmd
-        text: Projects
+      - href: certificate.qmd
+        text: Certificate
       - href: skills.qmd
         text: Skills
       - href: contact.qmd

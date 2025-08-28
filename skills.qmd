@@ -9,19 +9,14 @@ about:
 
 - Financial Analysis & Corporate Finance  
 - Strategic Management & Decision-Making  
-- Entrepreneurship & Innovation  
-- Project Management & Coordination  
-- Business Development & Client Relations  
-- Banking & Investment Advisory  
+- Entrepreneurship & Innovation   
 
 ---
 
 # Technical Skills
 
 - Microsoft Excel (financial modeling, reporting)  
-- Google Workspace (Slides, Sheets, Ads, Analytics)  
-- Adobe Creative Suite (Photoshop, Illustrator)  
-- Website Design & Management (Etsy, Glitch, Squarespace)  
+- Google Workspace (Slides, Sheets, Ads, Analytics)    
 - Data Analytics (basic SQL, data visualization tools)  
 - Content Creation & Social Media Strategy  
 
@@ -29,10 +24,7 @@ about:
 
 # Leadership Skills
 
-- **Team Leadership** – Captain of University of Pennsylvania Women’s Basketball (2019–2023)  
-- **Editor-in-Chief** – Founded and manage *The Sideline Post* media platform  
-- **Collaboration** – Coordinated IMF missions and inter-agency projects at the Central Bank  
-- **Mentorship** – Guided teammates and peers in both athletic and professional settings  
+- **Team Leadership** 
 
 ---
 

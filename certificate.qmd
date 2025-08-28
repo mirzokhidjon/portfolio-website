@@ -1,0 +1,31 @@
+---
+title: "Certificates"
+about:
+  template: trestles
+---
+
+## My Certificates
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+![](images/jon.png)
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+![](images/maz.png)
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+![](images/seen.png)
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+![](images/jvi.png)
+:::
+
+::: {.g-col-12 .g-col-sm-6 .g-col-lg-4}
+![](images/ven.png)
+:::
+
+:::
