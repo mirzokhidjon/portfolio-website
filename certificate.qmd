@@ -1,10 +1,17 @@
 ---
-title: "Certificates"
+title: "About Me"
+image: images/jon.png
 about:
   template: trestles
 ---
 
-## My Certificates
+## My Portfolio
+
+Welcome to my portfolio website! This site showcases my work and professional achievements, including a collection of certificates I have earned.
+
+---
+
+### My Certificates
 
 ::: {.grid}
 
