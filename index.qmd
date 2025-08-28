@@ -1,12 +1,9 @@
 ---
 title: "MIRZOKHIDJON YAKUBOV | MBA Student"
 image: images/man.png
-home:
-  template: trestles
-  image-width: 10em
-  image-shape: round
+about:
+  template: jolla
 ---
-
 I am a graduate student at the University of Canada West (UCW), specializing in the Master of Business Administration (MBA) program. My academic focus is on developing strong expertise in business strategy, organizational leadership, and data-driven decision-making.
 
 

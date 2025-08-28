@@ -6,67 +6,21 @@ toc: true
 page-layout: full
 ---
 
-# The Sideline Post  
+# Financial Analytics Blog 
 *Founder & Editor-in-Chief (Apr 2020 – Present)*  
 
-The Sideline Post is the first-ever centralized platform for college athletes, like me, to share their stories in their own words, inspired by *The Players’ Tribune*.  
-Since its inception during my freshman year at Penn, we have published **50+ full-length stories** from athletes around the world, representing a wide range of universities and sports.  
+The Financial Analytics Blog is a platform for me, as a finance student, to share insights and analysis on global economic trends and financial markets. I founded this blog to improve my writing and deepen my understanding of complex financial topics. Since its inception, I have published 15+ articles covering topics from macroeconomic policy to investment strategies. I currently serve as Editor, managing content and a small team of students to maintain operations. 
 
 I currently serve as **Editor-in-Chief**, managing a small team of college students to maintain operations.  
 
-
-
 ---
 
-# @kcpmusic  
-*Music Enthusiast | Content Creator*  
+# @YakubovFinance
+*Financial Enthusiast | Content Creator*  
 
-As a lover of all things music, I created an Instagram during high school to document my musical journey — improving guitar, piano, and drum skills, while also sharing new music discoveries.  
-
-The account features:  
-- Videos of me covering songs  
-- Recurring lists of my favorite tracks  
-- Personal insights on artists, albums, and the music industry — a bit like being a *Rolling Stone* writer!  
-
+As a lover of all things finance, I created an Instagram to document my learning journey—analyzing market trends and sharing my insights on corporate finance. The account features, infographics on key financial concepts, recurring lists of my favorite financial apps and resources, personal insights on investment strategies and financial news—a bit like being a Wall Street Journal columnist!
   
 
 ---
-
-# Springsteen Heardle  
-*Creator (July 2022 – Present)*  
-
-Pairing the rise in popularity of games like *Wordle* and *Heardle* with my passion for Bruce Springsteen’s music, I built a **Springsteen Heardle** game.  
-
-- Players guess the Springsteen song from short clips in as few tries as possible.  
-- Built using **JavaScript on the Glitch platform**.  
-- First month: **27,000 new users** and **92,000+ page views**.  
-- As of Sept 2023: averaging **~2,000 weekly visitors**.  
-
-
-
----
-
-# Graphic Design Work  
-*Freelance / Hobby (2021 – Present)*  
-
-My interest in graphic design has grown through building **websites, social media content**, and other creative projects.  
-
-In 2021, I opened an **Etsy shop** featuring:  
-- Music posters of favorite artists  
-- Resume and cover letter templates  
-- Other creative digital designs  
-
-
-
----
-
-# Headband Andy  
-*Website Design Collaboration*  
-
-I collaborated with **Headband Andy**, a rising hip-hop artist and TikTok creator, to build his first official artist website.  
-The site includes:  
-- Artist bio and story  
-- Updates on upcoming shows  
-- Music, videos, and new singles  
 
  
