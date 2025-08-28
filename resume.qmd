@@ -1,6 +1,6 @@
 ---
 title: Mirzhokhidjon
-image: images/cert.png
+image: images/jon.png
 about:
   template: trestles
 
