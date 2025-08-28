@@ -1,7 +1,12 @@
 ---
-title: "portfolio website"
+title: "MIRZOKHIDJON YAKUBOV | MBA Student"
+image: images/man.png
+home:
+  template: trestles
+  image-width: 10em
+  image-shape: round
 ---
 
-This is a Quarto website.
+I am a graduate student at the University of Canada West (UCW), specializing in the Master of Business Administration (MBA) program. My academic focus is on developing strong expertise in business strategy, organizational leadership, and data-driven decision-making.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
