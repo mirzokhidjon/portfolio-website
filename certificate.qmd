@@ -1,17 +1,10 @@
 ---
-title: "About Me"
-image: images/jon.png
-about:
-  template: trestles
+title: "Professional Achievements"
 ---
 
-## My Portfolio
+## My Certificates
 
-Welcome to my portfolio website! This site showcases my work and professional achievements, including a collection of certificates I have earned.
-
----
-
-### My Certificates
+This is a collection of certificates I have earned.
 
 ::: {.grid}
 
@@ -36,3 +29,5 @@ Welcome to my portfolio website! This site showcases my work and professional ac
 :::
 
 :::
+
+---

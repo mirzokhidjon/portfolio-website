@@ -1,9 +1,11 @@
 ---
-title: "MIRZOKHIDJON YAKUBOV | MBA Student"
-image: images/man.png
-about:
-  template: jolla
+title: "Welcome to my portfolio website!"
 ---
-I am a graduate student at the University of Canada West (UCW), specializing in the Master of Business Administration (MBA) program. My academic focus is on developing strong expertise in business strategy, organizational leadership, and data-driven decision-making.
+
+Hello! My name is Mirzokhidjon Yakubov. Welcome to my portfolio website, which showcases my work and academic achievements.I am a dedicated and experienced MBA student with a background in international financial institution.
+
+![](images/man.png)
+
+
 
 
