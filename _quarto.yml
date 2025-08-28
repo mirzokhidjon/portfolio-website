@@ -21,6 +21,6 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: cerulean
     toc: true
     page-layout: full
