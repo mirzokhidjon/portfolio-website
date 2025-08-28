@@ -1,8 +1,10 @@
 ---
 title: "Mirzokhidjon Yakubov | MBA. Student"
 subtitle: "I am a graduate student at the University of Canada West who is currently studying Master of Business Administration (MBA)"
-format: html
-page-layout: full
+image: images/about.png
+about:
+  template: trestles
+
 ---
 # MIRZOKHIDJON YAKUBOV
 ## A Bit About Me

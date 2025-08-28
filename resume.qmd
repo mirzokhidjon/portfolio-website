@@ -1,59 +1,54 @@
 ---
-title: "Resume"
-format: html
-toc: true
-page-layout: full
----
-
-# Education
-
-  - **Sejong University** – Class of 2020
-  *Bachelor of Business Administration*  
-  **Cumulative GPA:** 3.68  
-
-- **Sejong University** – Class of 2018 
-  *Bachelor of Tourism Management*  
-  **Cumulative GPA:** 3.5  
+title: Mirzhokhidjon
+image: images/cert.png
+about:
+  template: trestles
 
 ---
 
-# Courses I’ve Taken
-
-- Financial Accounting  
-- Corporate Finance  
-- Strategic Management  
-- Venture Capital and Innovation  
-- Global Business Strategy  
-- Entrepreneurial Leadership  
-- Data Analytics for Business  
+[Download My Resume](files/CV_M.Yakubov.pdf)
 
 ---
 
-## Work Experience
+### Professional Experience
 
-### Chief Economist  
-**Working with International Financial Institutions Unit, Central Bank of Uzbekistan**  
-*Tashkent, Uzbekistan | Feb 2023 – Jun 2023*  
+**Chief Specialist, International cooperation and working with WTO Division**
+*Central Bank of Uzbekistan, Tashkent, Uzbekistan*
+*July 2023 – Present*
 
-- Worked with international financial institutions and participated in the development and coordination of projects related to interstate, intergovernmental, and inter-agency agreements.  
-- Contributed to negotiations and agreements with international financial institutions to strengthen financial cooperation.  
+* Represent the interests of the Central Bank in interactions with international financial institutions.
+* Monitor the Central Bank's fulfillment of obligations under agreements with international organizations.
+* Oversee the accreditation of representative offices of foreign banks.
+
+**Chief Economist, Working with International Financial Institutions Unit**
+*Central Bank of Uzbekistan, Tashkent, Uzbekistan*
+*February 2023 – June 2023*
+
+* Worked with international financial institutions and participated in the development and coordination of projects related to interstate, intergovernmental, and inter-agency agreements.
+* Developed and coordinated agreements with international financial institutions.
+
+**Lead Economist, Working with International Financial Institutions Unit**
+*Central Bank of Uzbekistan, Tashkent, Uzbekistan*
+*April 2021 – February 2023*
+
+* Elaborated on issues and organized work to attract technical assistance from international financial institutions and foreign central banks.
+* Coordinated and organized the work of ministries and agencies concerning annual IMF missions.
+
+**Director**
+*Southern Leader LLC, Termez, Uzbekistan*
+*December 2019 – August 2020*
+
+* Managed all financial aspects, including overseeing financial statements, budgeting, and financial decision-making.
+* Made strategic decisions and managed personnel, including the hiring of employees based on their expertise.
 
 ---
 
-### Lead Economist  
-**Working with International Financial Institutions Unit, Central Bank of Uzbekistan**  
-*Tashkent, Uzbekistan | Apr 2021 – Feb 2023*  
+### Education
 
-- Elaborated on issues and organized work to attract technical assistance from international financial institutions and foreign central banks.  
-- Coordinated and organized the work of ministries and agencies concerning annual IMF missions.  
-- Supported the development of Uzbekistan’s banking and financial sector through strategic collaborations.  
+* **Sejong University**, Seoul, Korea
+    * Bachelor of Business Administration, 2014-2018
+    * Bachelor of Tourism Management, 2014-2018
+* **Pusan National University**, Busan, Korea
+    * Korean Language Course, 2013-2014
 
 ---
-
-### Director  
-**Southern Leader LLC**  
-*Termez, Uzbekistan | Dec 2019 – Aug 2020*  
-
-- Managed all financial aspects, including financial statements, budgeting, and strategic decision-making.  
-- Oversaw hiring, performance management, and staff development.  
-- Ensured smooth financial and operational management of the company.  

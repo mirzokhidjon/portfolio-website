@@ -1,8 +1,8 @@
 ---
 title: "Skills"
-format: html
-toc: true
-page-layout: full
+image: images/sun.png
+about:
+  template: trestles
 ---
 
 # Professional Skills

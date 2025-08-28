@@ -1,9 +1,9 @@
 ---
 title: "Projects"
 subtitle: "Both Serious and Fun!"
-format: html
-toc: true
-page-layout: full
+image: images/love.png
+about:
+  template: trestles
 ---
 
 # Financial Analytics Blog 
