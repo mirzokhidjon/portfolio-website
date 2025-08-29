@@ -1,12 +1,11 @@
 ---
-title: Mirzhokhidjon
 image: images/pain.png
 about:
   template: trestles
 
 ---
 
-[Download My Resume](files/CV_M.Yakubov.pdf)
+[Download My Resume](files/CV%20M.Yakubov.pdf)
 
 ---
 

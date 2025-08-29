@@ -1,11 +1,20 @@
+
 ---
-title: "Welcome to my portfolio website!"
----
 
-Hello! My name is Mirzokhidjon Yakubov. Welcome to my portfolio website, which showcases my work and academic achievements.I am a dedicated and experienced MBA student with a background in international financial institution.
+::: {.columns}
 
-![](images/man.png)
+::: {.column width="55%"}
+# Hello, I'm
 
+<br>
+A dedicated and experienced MBA student with a background in international financial institutions.
 
+[About Me](about.qmd){.btn .btn-primary .btn-lg .mt-3}
 
+:::
 
+::: {.column width="45%"}
+![](images/soo.png){.profile-circle}
+:::
+
+:::

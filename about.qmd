@@ -2,7 +2,7 @@
 title: "Mirzokhidjon Yakubov | MBA. Student"
 image: images/about.png
 about:
-  template: trestles
+  template: marquee
 
 ---
 
