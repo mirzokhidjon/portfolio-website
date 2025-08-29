@@ -1,8 +1,8 @@
 ---
 title: "Mirzokhidjon Yakubov | MBA. Student"
-image: images/about.png
+image: images/zoc.png
 about:
-  template: marquee
+  template: jolla
 
 ---
 
